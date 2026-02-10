@@ -35,20 +35,13 @@ Full-stack translation app with JWT auth, real-time WebSocket queue processing, 
 </td>
 <td width="50%" valign="top">
 
-**[✈️ TravelHub](https://github.com/sajal37/Orchids-Travel-Site)**<br>
-Production-grade travel marketplace with flights, hotels, buses, and activities. Features AI-powered natural language search, content editing, Prometheus monitoring, and Kubernetes-ready deployment.<br>
-`Next.js 15` `React 19` `TypeScript` `Docker` `K8s`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 **[📋 Task Scheduler](https://github.com/sajal37/Task-Scheduler)**<br>
 Microservices task management system with Eureka service discovery, API gateway, scheduling, notifications, and a responsive frontend.<br>
 `Java 17` `Spring Boot` `MySQL` `Maven`
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[🔍 Crime Database](https://github.com/sajal37/Crime-Database)**<br>
