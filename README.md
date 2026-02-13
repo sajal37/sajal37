@@ -62,9 +62,9 @@ Console-based crime database system with user auth, case tracking, and suspect m
 
 **Backend**&nbsp;&nbsp; Node.js · Express · Spring Boot · Socket.IO · Bull
 
-**Databases**&nbsp;&nbsp; PostgreSQL · MySQL · SQLite · Redis
+**Databases**&nbsp;&nbsp; PostgreSQL · MySQL · MongoDB · Redis
 
-**Tools**&nbsp;&nbsp; Docker · Kubernetes · Terraform · Prisma · Sequelize · Git
+**Tools**&nbsp;&nbsp; Docker · Prisma · Git
 
 ---
 
