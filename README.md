@@ -49,6 +49,13 @@ Console-based crime database system with user auth, case tracking, and suspect m
 `Java` `Maven` `SQLite` `JDBC`
 
 </td>
+<td width="50%" valign="top">
+
+**[🧠 CS Playground](https://github.com/sajal37/CS-Playground)**<br>
+Interactive systems playground demonstrating core CS concepts using real MySQL-backed examples. Includes live demos for database indexing and query optimization via a Node.js API that executes real SQL queries and returns structured JSON for visualization.<br>
+`JavaScript` `Node.js` `MySQL` `SQL`
+
+</td>
 </tr>
 </table>
 
