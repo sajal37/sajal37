@@ -20,7 +20,7 @@ Top-down arena shooter built with TypeScript + Canvas 2D. No engine, no framewor
 <td width="50%" valign="top">
 
 **[🕳️ Internet Rabbit Hole Tracker](https://github.com/sajal37/Internet-Rabbit-Hole-Tracker)**<br>
-Chrome extension that maps your browsing as a navigation graph, scores distraction levels using entropy analysis, and detects the exact page that sent you down the rabbit hole. 100% test coverage.<br>
+Chrome extension that maps your browsing as a navigation graph, scores distraction levels using entropy analysis, and detects the exact page that sent you down the rabbit hole. 99% test coverage.<br>
 `JavaScript` `Chrome MV3` `Ollama AI`
 
 </td>
